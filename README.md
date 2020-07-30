@@ -1,1 +1,1 @@
-# An-efficient-synchronous-indexing-technique-for-full-text-retrieval-in-distributed-databases
+Despite the fact that distributed databases have become a requirement of users and world applications, they are far from performance of Centralized databases. The reason for this is timing issue in distributed context. This project proposes a new technology for indexing distributed databases called Lucene Indexing. Lucene search indexes are stored outside the database and the resulting indexes are an optimized copy of database content to enable a faster search.
