@@ -1,0 +1,1 @@
+# An-efficient-synchronous-indexing-technique-for-full-text-retrieval-in-distributed-databases
